@@ -1,10 +1,11 @@
 '''
-1.0 Jedi Training (17pts)  Name:________________
+1.0 Jedi Training (17pts)  Name: Jace Leahy
 
 
-1. Define Forking (1pt): 
+1. Define Forking (1pt): creating your own copy of the original repository
 
-2. Define Cloning (1pt): 
+2. Define Cloning (1pt): cloning is similar to forking except you copy the remote version to
+your local repository/computer
 
 3. Define Branching (1pt):
 
@@ -12,10 +13,10 @@
 
 5. Define Merging (1pt): 
 
-6. Define Pushing (1pt):
+6. Define Pushing (1pt): To upload content to the remote repository
 
-7. Define Pull Request (1pt):
-
+7. Define Pull Request (1pt): A request that tells the owner of the original version to be notified of edits made to
+of a forked version.
 
 8. TURTORIAL ART (10pts.)
 
